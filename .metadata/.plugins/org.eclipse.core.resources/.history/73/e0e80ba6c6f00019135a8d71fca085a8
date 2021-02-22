@@ -1,0 +1,10 @@
+package com.chagu4developers.test;
+
+public class MainTest {
+
+	private static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I m Main !!!");
+	}
+
+}

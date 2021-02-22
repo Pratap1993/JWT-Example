@@ -1,0 +1,12 @@
+package com.chagu4developers.test;
+
+public class MainTest {
+
+	public static void main(String[] args) {
+		String s = "Java";
+		String s1 = "Java";
+		System.out.println(s.equals(s1));
+		System.out.println(s == s1);
+	}
+
+}

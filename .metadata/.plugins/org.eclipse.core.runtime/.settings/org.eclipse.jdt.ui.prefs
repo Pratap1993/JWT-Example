@@ -1,0 +1,11 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.chagu4developers.restservice.entity.UserEntity"><rhs name\="com.chagu4developers.restservice.entity.UserEntity"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.HashSet"/></lhs><lhs name\="java.util.Set"><rhs name\="java.util.HashSet"/></lhs><lhs name\="com.chagu4developers.restservice.dto.UserDto"><rhs name\="com.chagu4developers.restservice.dto.UserDto"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.FetchType"/><rhs name\="io.jsonwebtoken.SignatureAlgorithm"/></lhs><lhs name\="org.springframework.hateoas.ResourceSupport"><rhs name\="org.springframework.hateoas.Resource"/></lhs><lhs name\="org.springframework.hateoas.Identifiable"><rhs name\="org.springframework.hateoas.Resource"/></lhs><lhs name\="org.springframework.hateoas.Resource"><rhs name\="org.springframework.hateoas.Resource"/></lhs><lhs name\="com.chagu4developers.test.MainTest"><rhs name\="com.chagu4developers.test.MainTest"/></lhs></history>
+content_assist_number_of_computers=15
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=16
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

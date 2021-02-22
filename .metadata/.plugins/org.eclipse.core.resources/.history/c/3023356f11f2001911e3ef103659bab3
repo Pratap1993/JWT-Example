@@ -1,0 +1,26 @@
+package com.chagu4developers.test;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int i;
+		boolean isPrime = true;
+		Scanner scn = new Scanner(System.in);
+		System.out.println("Enter the number");
+		int n = scn.nextInt();
+		for (i = 2; i <= n / 2; i++) {
+			if ((n % i) == 0) {
+				isPrime = false;
+				break;
+			}
+		}
+		if (isPrime)
+			System.out.println("Prime");
+		else
+			System.out.println("Not Prime");
+		scn.close();
+	}
+
+}

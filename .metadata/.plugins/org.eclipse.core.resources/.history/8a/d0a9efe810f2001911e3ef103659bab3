@@ -1,0 +1,20 @@
+package com.chagu4developers.test;
+
+import java.util.Scanner;
+
+public class Test {
+
+	public static void main(String[] args) {
+		int i;
+		int fact = 1;
+		Scanner scn = new Scanner(System.in);
+		System.out.println("Enter the number");
+		int n = scn.nextInt();
+		for (i = 1; i <= n; i++) {
+			fact *= i;
+		}
+		System.out.println("Factorial of the no is " + fact);
+		scn.close();
+	}
+
+}

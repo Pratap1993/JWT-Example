@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.chagu4developers.restservice.entity.UserEntity"/>
+<fullyQualifiedTypeName name="com.chagu4developers.restservice.entity.AddressEntity"/>
+<fullyQualifiedTypeName name="com.chagu4developers.restservice.dto.UserDto"/>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.stream.Collector"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="org.hibernate.cfg.SetSimpleValueTypeSecondPass"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.persistence.Transient"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="org.springframework.hateoas.Link"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Import"/>
+<fullyQualifiedTypeName name="org.springframework.hateoas.mvc.ControllerLinkBuilder"/>
+<fullyQualifiedTypeName name="org.springframework.http.MediaType"/>
+<fullyQualifiedTypeName name="org.springframework.hateoas.Resource"/>
+<fullyQualifiedTypeName name="io.jsonwebtoken.Claims"/>
+<fullyQualifiedTypeName name="com.chagu4developers.restservice.security.SecurityConstants"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.chagu4developers.restservice.util.UserUtil"/>
+<fullyQualifiedTypeName name="io.jsonwebtoken.Jwts"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="io.jsonwebtoken.SignatureAlgorithm"/>
+<fullyQualifiedTypeName name="com.chagu4developers.test.MainTest"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
